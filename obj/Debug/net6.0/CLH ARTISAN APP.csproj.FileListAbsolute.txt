@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\CLH ARTISAN APP\obj\Debug\net6.0\CLH ARTISAN APP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CLH ARTISAN APP\obj\Debug\net6.0\CLH ARTISAN APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CLH ARTISAN APP\obj\Debug\net6.0\CLH ARTISAN APP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CLH ARTISAN APP\obj\Debug\net6.0\CLH ARTISAN APP.AssemblyInfo.cs
+C:\Users\User\Desktop\CLH ARTISAN APP\obj\Debug\net6.0\CLH ARTISAN APP.csproj.CoreCompileInputs.cache
